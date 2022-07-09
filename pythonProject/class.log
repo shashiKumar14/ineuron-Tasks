@@ -1,0 +1,53 @@
+2022-07-09 10:59:27,154 entered into listClass
+2022-07-09 10:59:27,154 entered into tupleClass
+2022-07-09 10:59:27,154 entered into stringClass
+2022-07-09 10:59:27,154 entered into setClass
+2022-07-09 10:59:27,154 entered into DictClass
+2022-07-09 10:59:27,154 entered into returnFirstElement function
+2022-07-09 10:59:27,155 entered into returnLastElement function
+2022-07-09 10:59:27,155 entered into lengthOfList function
+2022-07-09 10:59:27,155 entered into reverseTheList function
+2022-07-09 10:59:27,155 entered into appendOfList function
+2022-07-09 10:59:27,155 entered into ExtendOfList function
+2022-07-09 10:59:27,155 entered into indexNumberinAList function
+2022-07-09 10:59:27,155 entered into insertValueAtPerticularindex function
+2022-07-09 10:59:27,155 entered into removeTheValueUsingIndex function
+2022-07-09 10:59:27,155 entered into removeThePerticularValue function
+2022-07-09 10:59:52,460 entered into listClass
+2022-07-09 10:59:52,460 entered into tupleClass
+2022-07-09 10:59:52,460 entered into stringClass
+2022-07-09 10:59:52,460 entered into setClass
+2022-07-09 10:59:52,460 entered into DictClass
+2022-07-09 10:59:52,460 entered into returnFirstElement function
+2022-07-09 10:59:52,460 entered into returnLastElement function
+2022-07-09 10:59:52,460 entered into lengthOfList function
+2022-07-09 10:59:52,460 entered into reverseTheList function
+2022-07-09 10:59:52,460 entered into appendOfList function
+2022-07-09 10:59:52,460 entered into ExtendOfList function
+2022-07-09 10:59:52,460 entered into indexNumberinAList function
+2022-07-09 10:59:52,460 entered into insertValueAtPerticularindex function
+2022-07-09 10:59:52,460 entered into removeTheValueUsingIndex function
+2022-07-09 10:59:52,460 entered into removeThePerticularValue function
+2022-07-09 10:59:52,460 entered into returnFirstElement function
+2022-07-09 10:59:52,460 entered into returnLastElement function
+2022-07-09 10:59:52,460 entered into lengthOfList function
+2022-07-09 10:59:52,460 entered into reverseTheList function
+2022-07-09 10:59:52,460 entered into indexNumberinAList function
+2022-07-09 10:59:52,460 entered into countOfPerticularValue function
+2022-07-09 10:59:52,460 entered into lengthOfString function
+2022-07-09 10:59:52,460 entered into MultiplyWithNumber function
+2022-07-09 10:59:52,460 entered into splitString function
+2022-07-09 10:59:52,460 entered into stringUpper function
+2022-07-09 10:59:52,460 entered into stringLower function
+2022-07-09 10:59:52,460 entered into stringTitle function
+2022-07-09 10:59:52,460 entered into stringCapitalize function
+2022-07-09 10:59:52,460 entered into stringSwapcase function
+2022-07-09 10:59:52,460 entered into stringisUpper function
+2022-07-09 10:59:52,460 entered into stringisLower function
+2022-07-09 10:59:52,460 entered into returnsSet function
+2022-07-09 10:59:52,460 entered into addSet function
+2022-07-09 10:59:52,460 entered into removeSet function
+2022-07-09 10:59:52,460 entered into discardSet function
+2022-07-09 10:59:52,460 entered into dictKeys function
+2022-07-09 10:59:52,460 entered into dictValues function
+2022-07-09 10:59:52,460 entered into dictItems function
